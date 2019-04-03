@@ -1,5 +1,8 @@
-# PosterDownloader
-Py3 Webscraper for downloading official movie posters in the highest resolution available, using impawards.com as database
+# IMPAwards Movie Poster Downloader
+
+![Logo](Assets/Logo.png)
+
+Python3 Webscraper script for downloading official movie posters in the highest resolution available, using [impawards](https://impawards.com) as database.
 
 ## Installation & Quick Usage
 
