@@ -36,20 +36,7 @@ The easiest would be for you to describe your problem to me in the [issues](http
 * Comicbook Covers Downloader: https://github.com/FdelMazo/ComicbookCoversDownloader
 
 * ---
-     .--.       .--.
-    _  `    \     /    `  _
-     `\.===. \.^./ .===./`
-            \/`"`\/
-         ,  | y2k |  ,
-        / `\|;-.-'|/` \
-       /    |::\  |    \
-    .-' ,-'`|:::; |`'-, '-.
-        |   |::::\|   | 
-        |   |::::;|   |
-        |   \:::://   |
-        |    `.://'   |
-       .'             `.
-    _,'                 `,_
+![Logo](Assets/Logo2.png)
 
   FORK BY MarcoCasanova00:
 
