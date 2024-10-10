@@ -36,7 +36,20 @@ The easiest would be for you to describe your problem to me in the [issues](http
 * Comicbook Covers Downloader: https://github.com/FdelMazo/ComicbookCoversDownloader
 
 * ---
-![Logo](Assets/Logo2.png)
+
+
+ _____          _      _                                                 
+|  ___|__  _ __| | __ | |__  _   _                                       
+| |_ / _ \| '__| |/ / | '_ \| | | |                                      
+|  _| (_) | |  |   <  | |_) | |_| |                                      
+|_|  \___/|_|  |_|\_\ |_.__/ \__, |                                      
+ __  __                      |___/_                                      
+|  \/  | __ _ _ __ ___ ___    / ___|__ _ ___  __ _ _ __   _____   ____ _ 
+| |\/| |/ _` | '__/ __/ _ \  | |   / _` / __|/ _` | '_ \ / _ \ \ / / _` |
+| |  | | (_| | | | (_| (_) | | |__| (_| \__ \ (_| | | | | (_) \ V / (_| |
+|_|  |_|\__,_|_|  \___\___/   \____\__,_|___/\__,_|_| |_|\___/ \_/ \__,_|
+
+
 
   FORK BY MarcoCasanova00:
 
