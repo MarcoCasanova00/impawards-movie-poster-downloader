@@ -34,3 +34,24 @@ Python3 Webscraper script for downloading official movie posters in the highest 
 The easiest would be for you to describe your problem to me in the [issues](https://github.com/FdelMazo/posterdownloader/issues) section. To make it even easier you could replicate your error (search the same movies, pass the same txt file, etc etc) but this time logging it:
 `Python posterdownloader.py --log`
 * Comicbook Covers Downloader: https://github.com/FdelMazo/ComicbookCoversDownloader
+
+* ---
+     .--.       .--.
+    _  `    \     /    `  _
+     `\.===. \.^./ .===./`
+            \/`"`\/
+         ,  | y2k |  ,
+        / `\|;-.-'|/` \
+       /    |::\  |    \
+    .-' ,-'`|:::; |`'-, '-.
+        |   |::::\|   | 
+        |   |::::;|   |
+        |   \:::://   |
+        |    `.://'   |
+       .'             `.
+    _,'                 `,_
+
+  FORK BY MarcoCasanova00:
+
+  Now it's possible to choose from a range of dates and a range of movies from the result list.
+* 
